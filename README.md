@@ -3,6 +3,7 @@
 [![Javadocs](http://javadoc.io/badge/com.microsoft.sqlserver/mssql-jdbc.svg)](http://javadoc.io/doc/com.microsoft.sqlserver/mssql-jdbc)
 [![Gitter](https://img.shields.io/gitter/room/badges/shields.svg)](https://gitter.im/Microsoft/mssql-developers)
 </br>
+# Infogix/Precisely Fork
 # Microsoft JDBC Driver for SQL Server
 
 Welcome to the Microsoft JDBC Driver for SQL Server project!
